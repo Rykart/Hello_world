@@ -1,2 +1,3 @@
 # Hello_world
-My first repo
+Hi there, this is my first repo. I created this to become familiar with GitHub.
+Thank you all, bye!
